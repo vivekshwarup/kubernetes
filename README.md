@@ -7,5 +7,6 @@ Kubernetes can be installed and deployed using following methods:
 ##### Kops (Multi node kubernetes setup into Amazon Web Service)
 ##### Kubeadm (Multi node cluster in our own premises)
 We will install latest version of Kubernetes on Centos 7 with kubeadm utility. In my setup I am taking three Centos 7 servers with minimal installation. One server will acts master node and rest two server will be worker nodes. 
+![Kubernetes Image](https://github.com/vivekshwarup/kubernetes/blob/master/img/k8s1.png)
 
  
